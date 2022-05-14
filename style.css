@@ -1,0 +1,121 @@
+body{
+	background-color: whitesmoke;
+	font-family: 'Poppins', sans-serif;
+
+	
+}
+h1{
+	font-family: initial;
+	font-size: 50px;
+	border-left-style: solid;
+	border-color: red;
+	
+
+}
+.color-orange{
+	color: orange;
+}
+.half-width{
+	width: 50%;
+
+
+}
+.half-width img{
+	height: 70%;
+	width: 80%;
+	margin-left: 15%;
+	border-radius: 50%;
+}
+.top-sec{
+	display: flex;
+	padding: 5% 7%;
+	margin-bottom: -150px;
+}
+.explore-now{
+	background-color: orange;
+	padding: 10px 20px;
+	text-decoration: none;
+	border-radius: 10px;
+}
+.sec-two{
+	
+	padding: 3% 2%;
+}
+h2{
+	text-align: center;
+	font-size: 35px;
+	
+}
+.three-div{
+	display: flex;
+	padding-right: 5%;
+	
+}
+.one-third{
+	width: 33.334%;
+	padding: 2%;
+	margin-left: 5%;
+	background-color: whitesmoke;
+	box-shadow: 4px 4px 3px 3px black;
+	border-radius: 15px;
+
+
+}
+.one-third img{
+	height: 40%;
+	width: 40%;
+	padding: 2%;
+
+}
+#mission{
+	background-color: yellow;
+}
+#vission{
+	background-color: olive;
+
+}
+#goals{
+	background-color: orange;
+}
+.third-sec{
+	display: flex;
+	padding: 5% 5% 0% 7%;
+	margin-bottom: -150px;
+}
+h3{
+	font-size: 30px;
+}
+.third-sec-one{
+	width: 40%;
+}
+.third-sec-one img{
+	height: 70%;
+	width: 80%;
+	border-radius: 15px;
+	box-shadow: 2px 2px 2px 2px black;
+}
+.third-sec-two{
+	width: 60%;
+	padding-top: 3%;
+}
+.fourth-sec{
+	display: flex;
+	padding: 5% 0% 5% 7%;
+	margin-bottom: -150px;
+}
+#gocorona{
+	text-align: left;
+}
+.fifth-sec-div{
+	display: flex;
+	margin-bottom: -150px;
+	padding: 5%;
+	padding-top: 0%;
+}
+footer{
+	background-color: olive;
+	padding: 5px 0px;
+}
+footer p{
+	text-align: center;
+}
