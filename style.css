@@ -29,7 +29,7 @@ h1{
 .top-sec{
 	display: flex;
 	padding: 5% 7%;
-	margin-bottom: -150px;
+	margin-bottom: -190px;
 }
 .explore-now{
 	background-color: orange;
@@ -40,6 +40,7 @@ h1{
 .sec-two{
 	
 	padding: 3% 2%;
+
 }
 h2{
 	text-align: center;
@@ -55,7 +56,6 @@ h2{
 	width: 33.334%;
 	padding: 2%;
 	margin-left: 5%;
-	background-color: whitesmoke;
 	box-shadow: 4px 4px 3px 3px black;
 	border-radius: 15px;
 
@@ -68,19 +68,19 @@ h2{
 
 }
 #mission{
-	background-color: yellow;
+	background-color: lightskyblue;
 }
 #vission{
-	background-color: olive;
+	background-color: aliceblue;
 
 }
 #goals{
-	background-color: orange;
+	background-color: cornsilk;
 }
 .third-sec{
 	display: flex;
 	padding: 5% 5% 0% 7%;
-	margin-bottom: -150px;
+	margin-bottom: -100px;
 }
 h3{
 	font-size: 30px;
@@ -101,14 +101,14 @@ h3{
 .fourth-sec{
 	display: flex;
 	padding: 5% 0% 5% 7%;
-	margin-bottom: -150px;
+	margin-bottom: -125px;
 }
 #gocorona{
 	text-align: left;
 }
 .fifth-sec-div{
 	display: flex;
-	margin-bottom: -150px;
+	margin-bottom: -155px;
 	padding: 5%;
 	padding-top: 0%;
 }
